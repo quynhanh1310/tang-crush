@@ -4,10 +4,10 @@ const CONFIG = {
     Mà sao anh cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'yêu',
+    btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
+    btnYes: 'Vẫn cứ là thích em <33',
     btnNo: 'Không, Em Gái à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em <3',
     btnReply: 'Gửi cho em <3',
